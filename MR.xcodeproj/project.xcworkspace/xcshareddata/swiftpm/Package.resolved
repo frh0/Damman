@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ctscantext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StewartLynch/CTScanText",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c1ae6d50cde32518954211fbeb18a324eabdd1ce"
+      }
+    }
+  ],
+  "version" : 2
+}
